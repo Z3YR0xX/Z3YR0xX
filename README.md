@@ -11,7 +11,7 @@
 [![Wordfence](https://img.shields.io/badge/Wordfence-FF6B00?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/youssef-elouaer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elouaeryoussef2@gmail.com)
 </div>
----
+
 ## 🎯 About Me
 ```python
 class SecurityAnalyst:
